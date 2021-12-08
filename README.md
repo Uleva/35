@@ -31,6 +31,13 @@ __2.2 Зарезервированные и ключевые слова
    };
 ```
 #### Хороший пример 😃
-    var vegetables;
-    var car;
-    var animals;
+``` js
+    var superman = {
+    defaults: { clark: 'kent' },
+    hidden: true
+    };
+    
+    var superman = {
+    type: 'alien'
+    };
+```
